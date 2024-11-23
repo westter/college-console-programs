@@ -1,0 +1,13 @@
+﻿'a4_IslamovOtabekjon.exe' (Win32): Loaded 'D:\repos\a4_IslamovOtabekjon\x64\Debug\a4_IslamovOtabekjon.exe'. Symbols loaded.
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'a4_IslamovOtabekjon.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 9416 has exited with code 0 (0x0).
+The thread 9724 has exited with code 3221225786 (0xc000013a).
+The thread 20156 has exited with code 3221225786 (0xc000013a).
+The thread 21256 has exited with code 3221225786 (0xc000013a).
+The program '[2188] a4_IslamovOtabekjon.exe' has exited with code 3221225786 (0xc000013a).
